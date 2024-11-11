@@ -1,6 +1,4 @@
 # Medical-Clinic-System
-# Medical Clinic System - Assignment 3 & 4
-
 ## Overview
 
 This repository contains the code and documentation for a **Medical Clinic System** implemented in Python. The system manages patients' data, records, and notes in a clinic, ensuring persistence across sessions. The project is divided into two major assignments:
