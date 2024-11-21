@@ -11,10 +11,6 @@ This repository contains the code and documentation for a Medical Clinic System 
 - [Overview](#overview)  
 - [Features](#features)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Tests](#tests)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ## Features  
 
