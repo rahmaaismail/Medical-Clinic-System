@@ -3,7 +3,7 @@
 ## Overview  
 This repository contains the code and documentation for a Medical Clinic System implemented in Python. The system manages patient data, records, and notes in a clinic, ensuring persistence across sessions. The project was completed in collaboration with a classmate and spans three major phases:  
 
-- **Assignment 3**: Initial implementation of the system's core functionality, including data models and basic operations.  
+- **Assignment 3**: Initial implementation of the system's core functionality, including data models and basic operations. We achieved 100% on this assignment, passing all integration tests successfully.
 - **Assignment 4**: Enhancements for persistent data storage and exception handling.  
 - **Assignment 5**: Development of a Graphical User Interface (GUI) for improved usability and interaction.  
 
