@@ -5,7 +5,7 @@ This repository contains the code and documentation for a Medical Clinic System 
 
 - **Assignment 3**: Initial implementation of the system's core functionality, including data models and basic operations. We achieved 100% on this assignment, passing all integration tests successfully.
 - **Assignment 4**: Enhancements for persistent data storage and exception handling. We achieved 100% on this assignment, passing all integration tests successfully.
-- **Assignment 5**: Development of a Graphical User Interface (GUI) for improved usability and interaction.  
+- **Assignment 5**: Development of a Graphical User Interface (GUI) for improved usability and interaction. We achieved a perfect score (100%). Strengths include well-structured code, effective use of the MVC design pattern, cohesive functions and classes, excellent documentation, frequent and descriptive commits, and a highly user-friendly and intuitive application design.
 
 ## Table of Contents  
 - [Overview](#overview)  
